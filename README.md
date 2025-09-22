@@ -151,5 +151,3 @@ npm start
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-Do you also want me to create a **project folder structure + sample code snippets** (so you can zip and submit directly)?
